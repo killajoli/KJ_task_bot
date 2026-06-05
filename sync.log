@@ -1,4 +1,0 @@
-◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
-◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
-🔄 Начинаю синхронизацию...
-✅ Новых записей нет
