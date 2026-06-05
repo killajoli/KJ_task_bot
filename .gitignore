@@ -1,0 +1,8 @@
+node_modules/
+.env
+.DS_Store
+*.log
+sync-error.log
+sync.log
+bot.log
+bot-error.log
